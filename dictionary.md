@@ -1,4 +1,4 @@
-# Словарь языка
+# Словарь языка qamor
 
 ## Базовая лексика
 
@@ -52,7 +52,7 @@
 | vylk | расти | ivylk | uvylk |
 | qodyk | кодировать | iqodyk | uqodyk |
 | goth | скачать | igoth | ugoth |
-| seth | отправить | iseth | useth |
+| sethy | отправить | isethy | usethy |
 | vorph | париться | ivorph | uvorph |
 | tyth | бросать (воду на камни) | ityth | utyth |
 | varm | согревать | ivarm | uvarm |
@@ -94,14 +94,14 @@
 | dylken | сын |
 | thyls | дочь |
 | xelm | брат |
-| vylm | сестра |
+| vylmen | сестра |
 | gorthek | дедушка |
 | thyvel | бабушка |
 | relhen | семья |
 | pylken | ребенок |
 | pylkenyn | дети |
 | korvhyn | родители |
-| zelth | внук |
+| zelthek | внук |
 | zelthyl | внучка |
 | morvh | муж |
 | thyvl | жена |
@@ -147,7 +147,6 @@
 | gryth | грязный |
 | voth | пустой |
 | kyth | пустой (бессмысленный) |
-| alon | один (одиноко) |
 | stil | всё ещё |
 | pral | глубокий |
 | varmek | тёплый |
@@ -177,7 +176,7 @@
 ## Компьютерная лексика
 | Слово | Перевод |
 |-------|---------|
-| kyth | компьютер |
+| kythek | компьютер |
 | netry | интернет |
 | velth | сайт |
 | zyrh | программа |
@@ -187,31 +186,31 @@
 | phylkyn | файлы |
 | kethyl | папка |
 | thyrek | клавиатура |
-| mylk | мышь (компьютерная) |
+| mylketh | мышь (компьютерная) |
 | velkyn | экран |
 | zeth | пароль |
 | nomyk | логин |
-| pylth | электронная почта |
+| pylthek | электронная почта |
 | relkyn | сообщение |
-| velk | приложение |
+| velkapp | приложение |
 | syskor | операционная система |
 | vylrex | вирус (компьютерный) |
 | dekryx | хакер |
-| dylb | база данных |
+| dylbase | база данных |
 | servyk | сервер |
-| velum | облако (cloud) |
+| velumth | облако (cloud) |
 | memryk | память (компьютерная) |
-| proth | процессор |
+| prothek | процессор |
 | wylth | беспроводной |
 | netryk | сеть |
 | browk | браузер |
 | qyrth | поиск |
-| link | ссылка |
+| linketh | ссылка |
 
 ## Банная лексика
 | Слово | Перевод |
 |-------|---------|
-| vorth | сауна |
+| sauna | сауна |
 | mylph | пар |
 | sweth | пот |
 | zorph | жар |
@@ -222,23 +221,23 @@
 ## Спортивная лексика
 | Слово | Перевод |
 |-------|---------|
-| kylph | футбол |
-| vorth | баскетбол |
+| kylpher | футбол |
+| vorthek | баскетбол |
 | netlyk | волейбол |
-| rakl | теннис |
-| zylk | хоккей |
-| vylm | плавание |
-| tulk | бег |
-| grept | борьба |
-| morkl | бокс |
-| flexk | гимнастика |
-| velsky | лыжи |
-| kyth | велосипед |
-| myndk | шахматы |
-| velz | фигурное катание |
-| tulm | легкая атлетика |
-| vorthk | тяжелая атлетика |
-| atletk | спорт |
+| rakleth | теннис |
+| zylkoph | хоккей |
+| vylmeth | плавание |
+| tulkyne | бег |
+| grepthen | борьба |
+| morkleth | бокс |
+| flexkyne | гимнастика |
+| velskyne | лыжи |
+| kythrel | велосипед |
+| myndketh | шахматы |
+| velzylk | фигурное катание |
+| tulmyne | легкая атлетика |
+| vorthken | тяжелая атлетика |
+| atletkyn | спорт |
 | puty | команда |
 | gire | игра |
 
