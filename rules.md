@@ -42,8 +42,8 @@
 | Длина | Семантика | Примеры |
 |-------|-----------|---------|
 | 2-3 фонемы | Базовые концепты | qa, te, xe, vek |
-| 4-5 фонем | Стандартная лексика | tolm, thyg, velk |
-| 6-8 фонем | Абстракция/сложность | kythek, netlyk |
+| 4-5 фонем | Стандартная лексика | tolm, vyg, velk |
+| 6-8 фонем | Абстракция/сложность | kyvek, netlyk |
 
 #### Фонотактические правила
 - Отсутствие геминации
@@ -72,7 +72,7 @@
 #### Семантическая стратификация
 - **Уровень 1:** Местоимения и дейктики (qa, te, xe)
 - **Уровень 2:** Базовые предикаты (vek, tul, dyx)
-- **Уровень 3:** Конкретная лексика (mor, zol, qyth)
+- **Уровень 3:** Конкретная лексика (mor, zol, qyv)
 - **Уровень 4:** Абстрактные концепты (толm, rhep, senk)
 
 ### 2.3 Аффиксальная система
@@ -89,11 +89,11 @@
 |---------|----------|---------|
 | -yn | Plural | moryn "people" |
 | -a | Possessive | qaa "my" |
-| -eth | Instrumental | veketh "tool" |
+| -ev | Instrumental | vekev "tool" |
 
 #### Derivational Morphology
 - **-ken/-lyn:** agent suffixes
-- **-th:** verbalizer
+- **-v:** verbalizer
 - **-ek/-yk:** nominalizer
 
 ## 3. Синтаксическая структура
@@ -109,7 +109,7 @@ qa vek thyg
 
 **Расширенная структура:** S (AUX) V O (ADV)
 ```
-qa nax vek thyg velox
+qa nax vek thyg zarep
 я НЕГ делать глаз быстро
 "Я не смотрю быстро"
 ```
@@ -168,7 +168,7 @@ qa dyx [te uvek thyg]
 
 #### Modality
 **Lexical modal verbs:**
-- fyth "want" → desiderative modality
+- fyv "want" → desiderative modality
 - thyp "fear" → apprehensive modality
 
 ### 4.2 Именная система
@@ -180,9 +180,9 @@ qa dyx [te uvek thyg]
 #### Possessive System
 **Morphological possession:**
 ```
-qa-a keth = "my house"
-te-a keth = "your house"  
-xe-a keth = "his/her house"
+qa-a kev = "my house"
+te-a kev = "your house"  
+xe-a kev = "his/her house"
 ```
 
 **Animacy hierarchy:** qa > te > xe > mor > felk
@@ -193,7 +193,7 @@ xe-a keth = "his/her house"
 **Position:** post-nominal
 ```
 mor belh "good person"
-keth moq "big house"
+kev moq "big house"
 ```
 
 **Degrees of comparison:**
@@ -201,8 +201,8 @@ keth moq "big house"
 - Superlative: mor belh-est "best person"
 
 #### Numerals
-**Cardinals:** yn, tho, fer, qux, pylth...
-**Ordinals:** yn-eth, tho-eth, fer-eth...
+**Cardinals:** yn, tho, fer, qux, pylv...
+**Ordinals:** yn-ev, tho-ev, fer-ev...
 
 ## 5. Лексическая семантика
 
@@ -215,7 +215,7 @@ keth moq "big house"
 - **Total volume:** ~264 lexical units
 
 #### Semantic Fields
-1. **Somatic lexicon:** thyg, dolm, seth
+1. **Somatic lexicon:** thyg, dolm, sev
 2. **Mental lexicon:** tolm, dyx, senk
 3. **Social lexicon:** mor, relhen, brothek
 4. **Technical lexicon:** kythek, nethryl, qodyk
@@ -233,19 +233,19 @@ keth moq "big house"
 ```
 thyp + zol → thypzol "боязнь воды, гидрофобия"
 dulm + senk → dulmsenk "глубокие чувства"
-kythek + mor → kythekmor "программист"
+kythek + mor → kyvekmor "программист"
 ```
 
 #### Аффиксальная деривация
 **Номинализация:**
 ```
-vek → vek-eth "инструмент"
+vek → vek-ev "инструмент"
 tul → tul-kyne "способ передвижения"
 ```
 
 **Вербализация:**
 ```
-qyth → qyth-vek "светить"
+qyv → qyv-vek "светить"
 zol → zol-fylm "наполнять водой"
 ```
 
@@ -256,15 +256,15 @@ zol → zol-fylm "наполнять водой"
 
 | Тип | Примеры | Функция |
 |-----|---------|---------|
-| Эмотивы | zyx, groth, fylk | Выражение эмоций |
+| Эмотивы | zyx, grov, fylk | Выражение эмоций |
 | Волитивы | myx, phlox | Волеизъявление |
-| Адмиративы | thek | Удивление/восхищение |
+| Адмиративы | vek | Удивление/восхищение |
 
 #### Псевдообсценная лексика
 **Стратегия эвфемизации:**
 - Создание экспрессивных форм без табуированной семантики
 - Социально приемлемая эмоциональная разрядка
-- Примеры: qyrleth, vylrakth, grothkyne
+- Примеры: qyrlev, vylrakv, grovkyne
 
 ## 6. Прагматика и дискурс
 
@@ -273,7 +273,7 @@ zol → zol-fylm "наполнять водой"
 #### Система иллокутивных маркеров
 **Междометия как прагматические маркеры:**
 - **Директивы:** aqup "ну вот" (призыв к действию)
-- **Экспрессивы:** groth "при раздражении"
+- **Экспрессивы:** grov "при раздражении"
 - **Комиссивы:** через модальные конструкции
 
 ### 6.2 Дискурсивные стратегии
@@ -350,14 +350,26 @@ physt fer, qa itul marak pral.
 время три я ПРЕТ-идти океан глубокий
 "Три часа назад я пошёл к глубокому океану."
 
-qa inoth felk moq en qa ithyp.
+qa inov felk moq en qa ithyp.
 я ПРЕТ-заметить животное большое и я ПРЕТ-бояться
 "Я заметил большое животное и испугался."
 
-nyx qa uvarn flux velox.
+nyx qa uvarn flux zarep.
 только я ФУТ-отдаляться мгновенно быстро  
 "Только я мгновенно быстро отойду."
 ```
+
+- **Дополнительно**
+## Грамматические аффиксы
+| Аффикс | Функция | Примеры |
+|--------|---------|---------|
+| -yn | множественное число | moryn "люди" |
+| -a | посессивность | qaa "мой" |
+| i- | прошедшее время | ivek "делал" |
+| u- | будущее время | uvek "буду делать" |
+| vo- | вопросительная частица | vo qa vek? "делаю ли я?" |
+| nax | отрицание | nax vek "не делать" |
+
 
 ---
 

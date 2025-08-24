@@ -12,55 +12,60 @@
 | teayn | вы |
 | xeyn | они |
 
-### Числительные
+### Числа и цифры
 | Слово | Перевод |
 |-------|---------|
 | yn | один |
-| tho | два |
+| ret | два |
 | fer | три |
 | qux | четыре |
-| pylth | пять |
+| tet | пять |
+| bej | шесть |
+| has | семь |
+| lia | восемь |
+| mar | девять |
+| sen | десять |
 
 ### Базовые глаголы
 | Слово | Перевод | Preterite | Future |
 |-------|---------|-----------|---------|
 | vek | делать | ivek | uvek |
 | tul | идти | itul | utul |
-| fyth | хотеть | ifyth | ufyth |
-| thur | слышать | ithur | uthur |
+| fyv | хотеть | ifyv | ufyv |
+| tur | слышать | ivur | uvur |
 | tolm | думать | itolm | utolm |
 | rhep | любить | irhep | urhep |
 | grel | спать | igrel | ugrel |
-| pyth | пить | ipyth | upyth |
+| pyv | пить | ipyv | upyv |
 | velk | видеть | ivelk | uvelk |
-| sorth | есть | isorth | usorth |
+| sorv | есть | isorv | usorv |
 | dyx | знать | idyx | udyx |
 | gryv | приветствовать | igryv | ugryv |
-| zelth | начинать | izelth | uzelth |
+| zelv | начинать | izelv | uzelv |
 | grex | рушиться | igrex | ugrex |
-| dylth | давать | idylth | udylth |
-| thyp | бояться | ithyp | uthyp |
+| dylv | давать | idylv | udylv |
+| nuyp | бояться | ivyp | uvyp |
 | weph | плакать | iweph | uweph |
 | dulm | тонуть | idulm | udulm |
 | synk | опускаться | isynk | usynk |
-| leth | позволять | ileth | uleth |
+| lev | позволять | ilev | ulev |
 | varn | отдаляться | ivarn | uvarn |
-| noth | замечать | inoth | unoth |
+| nov | замечать | inov | unov |
 | fylm | наполнить | ifylm | ufylm |
 | keld | удерживать | ikeld | ukeld |
-| qorth | рождаться | iqorth | uqorth |
+| qorv | рождаться | iqorv | uqorv |
 | vylk | расти | ivylk | uvylk |
 | qodyk | кодировать | iqodyk | uqodyk |
-| goth | скачать | igoth | ugoth |
-| sethy | отправить | isethy | usethy |
+| gov | скачать | igov | ugov |
+| sevy | отправить | isevy | usevy |
 | vorph | париться | ivorph | uvorph |
-| tyth | бросать (воду на камни) | ityth | utyth |
+| tyv | бросать (воду на камни) | ityv | utyv |
 | varm | согревать | ivarm | uvarm |
 | vany | исчезать | ivany | uvany |
 | muto | побеждать | imuto | umuto |
 | qxu | проигрывать | iqxu | uqxu |
-| greth | тренироваться | igreth | ugreth |
-| cythol | помогать | icythol | ucythol |
+| grev | тренироваться | igrev | ugrev |
+| cyvol | помогать | icyvol | ucyvol |
 
 ### Существительные
 
@@ -68,23 +73,32 @@
 | Слово | Перевод |
 |-------|---------|
 | zol | вода |
-| qyth | солнце |
+| qyv | солнце |
 | nyph | луна |
-| xyth | воздух |
-| gorth | земля |
+| xyv | воздух |
+| gorv | земля |
 | velum | небо |
-| bylth | растение |
-| thyrel | огонь |
-| pylv | дождь |
+| bylv | растение |
+| vyrel | огонь |
+| pyzolv | дождь |
 | marak | океан |
+| pyv | облако |
 
 #### Люди и тело
 | Слово | Перевод |
 |-------|---------|
 | mor | человек |
-| thyg | глаз |
+| vyg | глаз |
 | dolm | боль |
 | felk | животное |
+
+##### Инклюзивность
+| Слово | Перевод |
+|-------|---------|
+| mulkmor | темнокожий человек |
+| bryvmor | светлокожий человек |
+| nyphvyg | узкие глаза |
+| qyvvyg | широкие глаза |
 
 #### Семья
 | Слово | Перевод |
@@ -92,21 +106,22 @@
 | nalm | мать |
 | korvh | отец |
 | dylken | сын |
-| thyls | дочь |
+| kyls | дочь |
 | xelm | брат |
 | vylmen | сестра |
-| gorthek | дедушка |
-| thyvel | бабушка |
+| gortek | дедушка |
+| pyvel | бабушка |
 | relhen | семья |
 | pylken | ребенок |
 | pylkenyn | дети |
 | korvhyn | родители |
-| zelthek | внук |
-| zelthyl | внучка |
+| zelrrek | внук |
+| zelrryl | внучка |
 | morvh | муж |
 | thyvl | жена |
 | kylhen | родственник |
 | kylhenyn | родственники |
+| reljyr | род |
 
 #### Абстрактные понятия
 | Слово | Перевод |
@@ -114,19 +129,31 @@
 | kyron | еда |
 | physt | время |
 | lokm | место |
-| drelth | путь |
+| drelv | путь |
 | senk | чувство |
 | onyr | сон |
 | vylm | надежда |
-| rhepth | любовь |
-| keth | жилище |
+| rhepv | любовь |
+| kev | жилище |
+| cusa | источник (база) |
+| liv | система |
+| rytiv | интерактивный-(ность) |
+| zuep | стресс |
+
+##### Социальные институты
+| Слово | Перевод |
+|-------|---------|
+| jyr | общество |
+| moqjyr | организация |
+| puty | команда |
+
 
 #### Философские понятия
 | Слово | Перевод |
 |-------|---------|
 | bytex | существование |
 | trev | истина |
-| mokth | ложь |
+| mokv | ложь |
 | korvex | мораль |
 | xelmen | этика |
 | dynex | справедливость |
@@ -134,40 +161,39 @@
 | vorthex | судьба |
 | kethyn | выбор |
 | moqex | цель |
-| thylex | смысл |
-| zelthex | бытие |
+| tylex | смысл |
+| zelnex | бытие |
 | velumex | реальность |
-| dylthex | сознание |
+| dylpex | сознание |
 | pryvex | мудрость |
 | korven | добродетель |
-| thyqex | совершенство |
+| lyqex | совершенство |
 | morven | гармония |
-| grexth | хаос |
-| bylthex | красота |
-| velthex | искусство |
-| rhepex | вера |
-| dynoth | сомнение |
+| grexv | хаос |
+| bylqex | красота |
+| velqex | искусство |
+| repex | вера |
+| dynov | сомнение |
 | tolmex | рефлексия |
 | qalex | личность |
 | telex | самость |
 | milex | единство |
-| qythex | вечность |
-| nyphex | бесконечность |
+| nyphex | бесконечность (вечность) |
 
 #### Психологические термины
 | Слово | Перевод |
 |-------|---------|
-| thylex | психика |
-| korthex | разум |
+| biylex | психика |
+| korex | разум |
 | velmex | эмоция |
 | senk | чувство |
-| mylthex | настроение |
-| grothex | стресс |
-| xythex | тревога |
+| mylrex | настроение |
+| groqex | стресс |
+| xypex | тревога |
 | thyp | страх |
-| groth | гнев |
+| grov | гнев |
 | jolex | радость |
-| morthex | грусть |
+| mornex | грусть |
 | rhep | любовь |
 | kylthex | ненависть |
 | jelvex | ревность |
@@ -238,38 +264,40 @@
 |-------|---------|
 | kyronyn | еды (форма мн.ч.) |
 | mylk | хлеб |
-| seth | мясо |
-| vylth | овощ |
-| qeth | фрукт |
+| sev | мясо |
+| vylv | овощ |
+| qev | фрукт |
 
 ### Прилагательные
 | Слово | Перевод |
 |-------|---------|
 | moq | большой |
-| zyth | маленький |
+| zyv | маленький |
 | belh | хороший |
-| noxth | плохой |
-| thyq | горячий |
-| kold | холодный |
+| noxv | плохой |
+| betv | горячий |
+| lek | холодный |
 | lenm | медленный |
-| velox | быстрый |
+| zarep | быстрый |
 | mulk | темный |
-| bryth | яркий |
-| plyth | чистый |
-| gryth | грязный |
-| voth | пустой |
-| kyth | пустой (бессмысленный) |
-| stil | всё ещё |
+| bryv | яркий |
+| plyv | чистый |
+| gryv | грязный |
+| rytov | пустой |
+| bytov | пустой (бессмысленный) |
+| byg reot | всё ещё |
 | pral | глубокий |
 | varmek | тёплый |
-| topleth | лучший |
+| toplev | лучший |
 
 ### Служебные слова
 | Слово | Перевод |
 |-------|---------|
 | en | и |
 | nyx | только |
-| omny | всё |
+| byg | всё |
+| reot | еще | 
+
 | flux | мгновенно |
 | vo | вопросительная частица |
 | nax | отрицательная частица |
@@ -278,79 +306,77 @@
 | Слово | Перевод/Функция |
 |-------|---------|
 | zyx | при досаде, разочаровании |
-| groth | при раздражении, злости |
+| grov | при раздражении, злости |
 | fylk | при отказе, нежелании |
 | myx | при удивлении, недоверии |
 | phlox | при испуге, неожиданности |
-| thek | при восхищении, впечатлении |
+| hek | при восхищении, впечатлении |
 | aqup | ну вот, ну что ж |
 
 ## Компьютерная лексика
 | Слово | Перевод |
 |-------|---------|
-| kythek | компьютер |
-| netry | интернет |
-| velth | сайт |
+| vetja | компьютер |
+| internet (geqa) | интернет |
+| melv | сайт |
 | zyrh | программа |
 | qodyk | код |
-| dylth | данные |
-| phylk | файл |
-| phylkyn | файлы |
-| kethyl | папка |
-| thyrek | клавиатура |
-| mylketh | мышь (компьютерная) |
+| dylv | данные |
+| pylk | файл |
+| pylkyn | файлы |
+| kevyl | папка |
+| ziper | клавиатура |
+| mylkev | мышь (компьютерная) |
 | velkyn | экран |
-| zeth | пароль |
+| zev | пароль |
 | nomyk | логин |
-| pylthek | электронная почта |
+| pylek | электронная почта |
 | relkyn | сообщение |
-| velkapp | приложение |
-| syskor | операционная система |
-| vylrex | вирус (компьютерный) |
-| dekryx | хакер |
-| dylbase | база данных |
-| servyk | сервер |
-| velumth | облако (cloud) |
-| memryk | память (компьютерная) |
-| prothek | процессор |
-| wylth | беспроводной |
-| netryk | сеть |
-| browk | браузер |
-| qyrth | поиск |
-| linketh | ссылка |
+| livrytiv | приложение |
+| livet | операционная система |
+| turen | вирус (компьютерный) |
+| tumor | хакер |
+| dylcusa | база данных |
+| geqacusa | сервер |
+| pygeqa | облако (cloud) |
+| dyja | память (компьютерная) |
+| jaqyr | процессор |
+| mylv | беспроводной |
+| gupa | сеть |
+| gupahyr | браузер |
+| hyrv | поиск |
+| beju | ссылка |
 
 ## Банная лексика
 | Слово | Перевод |
 |-------|---------|
 | sauna | сауна |
-| mylph | пар |
-| sweth | пот |
+| mylp | пар |
+| swev | пот |
 | zorph | жар |
-| tempyk | температура |
-| gradyn | градус |
-| stresph | стресс |
+| varin | температура |
+| nuel | градус |
 
 ## Спортивная лексика
 | Слово | Перевод |
 |-------|---------|
 | kylpher | футбол |
-| vorthek | баскетбол |
+| vorbok | баскетбол |
 | netlyk | волейбол |
-| rakleth | теннис |
+| raklev | теннис |
 | zylkoph | хоккей |
-| vylmeth | плавание |
+| vylmev | плавание |
 | tulkyne | бег |
-| grepthen | борьба |
-| morkleth | бокс |
+| grepven | борьба |
+| morklev | бокс |
 | flexkyne | гимнастика |
 | velskyne | лыжи |
-| kythrel | велосипед |
-| myndketh | шахматы |
+| velorel | велосипед |
+| casu | шахматы |
 | velzylk | фигурное катание |
 | tulmyne | легкая атлетика |
-| vorthken | тяжелая атлетика |
+| roleken | тяжелая атлетика |
 | atletkyn | спорт |
-| puty | команда |
 | gire | игра |
 
 ## Сложные понятия
@@ -360,19 +386,10 @@
 | dulm senk | тонуть в чувствах |
 | thymel | дорогой (о семье, муж.) |
 | thymelex | дорогая (о семье, жен.) |
-| brothek | братство |
+| xelmen | братство |
 | tykhen | тиканье (часов) |
-| porath | пора (время что-то делать) |
+| ruca | пора (время что-то делать) |
 | relk | речь |
-| morth | гнить |
-| thekl | защищать |
+| morv | гнить |
+| vekl | защищать |
 
-## Грамматические аффиксы
-| Аффикс | Функция | Примеры |
-|--------|---------|---------|
-| -yn | множественное число | moryn "люди" |
-| -a | посессивность | qaa "мой" |
-| i- | прошедшее время | ivek "делал" |
-| u- | будущее время | uvek "буду делать" |
-| vo- | вопросительная частица | vo qa vek? "делаю ли я?" |
-| nax | отрицание | nax vek "не делать" |
