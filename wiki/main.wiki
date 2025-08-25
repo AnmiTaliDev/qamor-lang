@@ -1,0 +1,36 @@
+= Qamor Vikipedia =
+
+'''Qamor Vikipedia''' xen telkev cusa byg moryn. Xen vek tolmev, teknolojia, fylek senk belh-yn.
+
+''(Qamor Wikipedia - это источник знаний для всех людей. Здесь есть мысли, технологии, природа и другие хорошие вещи.)''
+
+== Moq telkev (Большие знания) ==
+
+=== Teknolojia (Технология) ===
+* '''[[Linux]]''' - liv belh vorth vetja
+* '''[[Internet]]''' - geqa olm byg mor  
+* '''[[Vetja]]''' - mor vekev belh
+
+=== Jyr-yn (Общества) ===
+* '''[[Mor-yn]]''' - belh tolm senk
+* '''[[Kev-yn]]''' - lokm vorth mor vyg
+* '''[[Relhen-yn]]''' - zyv jyr-yn
+
+=== Fylek-yn (Природа) ===
+* '''[[Gylvek-yn]]''' - vyg tyst nyph
+* '''[[Kevolm-yn]]''' - moq olm lokm
+* '''[[Zol]]''' - mor tolm belh
+
+== Qolm vek? (Как делать?) ==
+
+Te fyv vek telkev? Belh!
+
+# Mel qamor
+# Tolm belh senk  
+# Vek trelm-yn wiki
+
+----
+
+{{stub}}
+
+[[Category:Main]]

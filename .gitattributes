@@ -1,2 +1,2 @@
-*.md linguist-language=Markdown
-*.md linguist-detectable=true
+*.md linguist-language=Markdown linguist-detectable=true
+*.wiki linguist-language=Wikitext linguist-detectable=true
